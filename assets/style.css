@@ -1,0 +1,20 @@
+body {
+    background-color: gray;
+}
+h1,h2,h3{
+    text-align: center;
+    color: aqua;
+}
+a, p{
+    font-family: "DejaVu Sans Mono";
+    font-size: large;
+}
+button, label{
+    font-family: "DejaVu Sans Mono";
+    font-size: large;
+}
+input{
+    height: 30px;
+    width:200px;
+    font-size: large;
+}
